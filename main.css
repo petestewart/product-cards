@@ -1,8 +1,67 @@
 body {
-    background-color: darkgray;
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-* {
-    border: 3px solid red;
-    padding: 5px;
+/* * {
+    border: 1px solid red;
+    padding: 0px;
+} */
+
+.page-content {
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+
+#page-title {
+    margin: auto;
+    width: 100%%;
+    text-align: center;
+}
+
+/* .cards-container {
+
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+
+} */
+
+.card {
+    width: 300px;
+    box-shadow: 5px 10px #888888;
+    margin: 20px;
+    border: 1px solid darkblue;
+}
+
+.product-title {
+    border: 1px solid lightblue;
+}
+
+.section1 img {
+    width: 275px;
+    display: block;
+    margin: auto;
+}
+
+.product-description {
+    text-align: justify;
+}
+
+.product-title {
+    text-align: center;
+}
+
+.product-specifications {
+    font-weight: bold;
+}
+
+.product-availability {
+    padding: 0;
+    background-color: darkgray;
+    color: yellow;
+}
+
+.cards-row {
+    display: flex;
+    justify-content: space-around;
 }
