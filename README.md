@@ -1,5 +1,5 @@
 # Product Cards
-This web site is a simple display of product cards in the form of T-shirts for sale on a Big Lebowski themed online store. 
+This web site is a simple display of product cards in the form of T-shirts for sale on a *Big Lebowski* themed online store. 
 
 It was built as an exercise to learn how to use CSS and HTML styling elements.
 
